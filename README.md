@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate developer <img src="https://media
 
 ## 🔥 Streak Stats
 
-![GitHub Stats](https://streak-stats.demolab.com/?user=Saravanars07&theme=neon)
+![GitHub Stats](https://streak-stats.demolab.com/?user=Saravanars07&theme=tokyonight)
 
 
 ## 📊 GitHub Graph
