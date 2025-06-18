@@ -85,6 +85,3 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
-<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Al and Cyber+%F0%9F%A4%96;Python+Developer+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+CodeSphere+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" /></a> -->
-<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&width=500&lines=Al+And+Cyber+%F0%9F%A4%96;Python+Developer+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+a+Codespace+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" /></a> -->
