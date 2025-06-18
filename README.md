@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer <img src="https://media
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saravanars07&show_icons=true&theme=transparent)
 
-## Languges
+## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanars07&layout=compact&theme=radical)
 
