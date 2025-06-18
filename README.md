@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a passionate developer <img src="https://media
 
 ## 🚀 About Me
 
-🔍 I’m passionate about making information easy to find and follow, using best practices for structure, clarity, and visual presentation.
-📚 I love programming and clear documentation, using Markdown with images for clarity.
-✨ I believe good documentation is as important as good code, and I always aim to keep my GitHub repositories well-organized and visually engaging.
-🚀 My goal is to help others learn, collaborate, and contribute by providing documentation that’s both informative and enjoyable to use.
-👯 Looking to collaborate on: Open source documentation projects
+🔍 I’m passionate about making information easy to find and follow, using best practices for structure, clarity, and visual presentation.<br>
+📚 I love programming and clear documentation, using Markdown with images for clarity.<br>
+✨ I believe good documentation is as important as good code, and I always aim to keep my GitHub repositories well-organized and visually engaging.<br>
+🚀 My goal is to help others learn, collaborate, and contribute by providing documentation that’s both informative and enjoyable to use.<br>
+👯 Looking to collaborate on: Open source documentation projects.
 
 
 ## Skills
