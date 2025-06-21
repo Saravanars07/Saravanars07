@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate developer <img src="https://media
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanars07&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanars07&layout=compact&theme=red)
 
 ## 🏆 GitHub Trophies
 
@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate developer <img src="https://media
 
 ## 🔥 Streak Stats
 
-![GitHub Stats](https://streak-stats.demolab.com/?user=Saravanars07&theme=tokyonight) 
+![GitHub Stats](https://streak-stats.demolab.com/?user=Saravanars07&theme=radical) 
 
 
 ## 📊 GitHub Graph
